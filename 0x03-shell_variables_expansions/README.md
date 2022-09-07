@@ -1,1 +1,1 @@
-12-combinations
+3-paths
